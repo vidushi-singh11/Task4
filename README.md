@@ -1,3 +1,5 @@
+To run this successfully. Please unzip the node_modules.7z file.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
